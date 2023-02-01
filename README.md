@@ -25,7 +25,7 @@ Is stored in [link](https://github.com/MSI17819/Coffee_data_analysis/blob/codeim
 
 ## Dataset
 
-#### 1) Dataset contain information
+#### 1) Dataset information
 
 Dataset contain information about coffee production, consumption, export, re-export in each year from 1990 to 2020 in ICO countries.
 
