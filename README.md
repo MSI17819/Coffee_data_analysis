@@ -25,15 +25,17 @@ Is stored in [link](https://github.com/MSI17819/Coffee_data_analysis/blob/codeim
 
 ## Dataset
 
-The dataset is available in my Kaggel account [link](https://www.kaggle.com/datasets/michals22/coffee-dataset)
-
 #### 1) Dataset contain information
 
-Dataset contain information about coffee production, consumption, export, re-export in each year from 1990 to 2020.
+Dataset contain information about coffee production, consumption, export, re-export in each year from 1990 to 2020 in ICO countries.
 
 #### 2) Dataset for analysis
 
 The dataset is available in a csv file [link](https://www.kaggle.com/datasets/michals22/coffee-dataset)
+
+#### 3) Powe BI visualisation
+
+The repo also includes a Power BI dashboard (exported from Power BI to PDF) with a simple data visualisation [link](https://github.com/MSI17819/Coffee_data_analysis/blob/main/Coffee%20consumption%20geography%20area%20-%20Power%20BI%20vis.pdf)
 
 ## Technology stack
 
@@ -47,9 +49,10 @@ The dataset is available in a csv file [link](https://www.kaggle.com/datasets/mi
 - [Numpy](https://numpy.org/)
 - [Pandas](https://numpy.org/)
 
-### Data visualisation library
+### Data visualisation tool
 
-- [Matplotlib](https://matplotlib.org/)
+- [Pandas plot](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html)
+- [Power BI](https://www.microsoft.com/pl-pl/download/details.aspx?id=58494)
 
 ## Project status
 
