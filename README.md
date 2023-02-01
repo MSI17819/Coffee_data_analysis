@@ -71,4 +71,6 @@ In the future, the project can be improved by:
 ## Contact
 
 
-Created by *123michal86@gmail.com* - feel free to contact me!
+Created by [MSI17819](https://github.com/MSI17819)
+
+Feel free to contact me: *123michal86@gmail.com*, [Kaggel](https://www.kaggle.com/michals22), [Linkedin](https://www.linkedin.com/in/micha%C5%82-sikora/)
