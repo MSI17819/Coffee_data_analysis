@@ -41,7 +41,6 @@ The dataset is available in a csv file [link](https://www.kaggle.com/datasets/mi
 
 - [Miniconda environment](https://docs.conda.io/en/latest/miniconda.html)
 - [Jupyter Notebook](https://jupyter.org/)
-- [PyCharm](https://www.jetbrains.com/pycharm/)
 
 ### Packages for data pre-processing
 
@@ -51,7 +50,6 @@ The dataset is available in a csv file [link](https://www.kaggle.com/datasets/mi
 ### Data visualisation library
 
 - [Matplotlib](https://matplotlib.org/)
-- [Seaborn](https://seaborn.pydata.org/)
 
 ## Project status
 
