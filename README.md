@@ -21,7 +21,7 @@ Notebook with all preprocessing steps:
 - data preprocessing and cleaning
 - export data to csv file 
 
-Is stored in [link](https://github.com/MSI17819/Coffee_data_analysis/blob/codeimpro/Coffee_codeimpro.ipynb)
+Is stored in [link]([https://github.com/MSI17819/Coffee_data_analysis/blob/codeimpro/Coffee_codeimpro.ipynb](https://github.com/MSI17819/Coffee_data_analysis/blob/main/Coffee_codeimpro.ipynb)
 
 ## Dataset
 
