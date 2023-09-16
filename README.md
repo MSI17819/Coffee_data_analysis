@@ -68,4 +68,4 @@ In the future, the project can be improved by:
 
 Created by [MSI17819](https://github.com/MSI17819)
 
-Feel free to contact me: *123michal86@gmail.com*, [Kaggel](https://www.kaggle.com/michals22), [Linkedin](https://www.linkedin.com/in/micha%C5%82-sikora/)
+Feel free to contact me: *123michal86@gmail.com*, ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)(https://www.kaggle.com/michals22), ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/micha%C5%82-sikora/)
