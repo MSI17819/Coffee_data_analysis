@@ -33,10 +33,6 @@ Dataset contain information about coffee production, consumption, export, re-exp
 
 The dataset is available in a csv file [link](https://www.kaggle.com/datasets/michals22/coffee-dataset)
 
-#### 3) Powe BI visualisation
-
-The repo also includes a Power BI dashboard (exported from Power BI to PDF) with a simple data visualisation [link](https://github.com/MSI17819/Coffee_data_analysis/blob/main/Coffee%20consumption%20geography%20area%20-%20Power%20BI%20vis.pdf)
-
 ## Technology stack
 
 ### Computing platform
@@ -52,7 +48,6 @@ The repo also includes a Power BI dashboard (exported from Power BI to PDF) with
 ### Data visualisation tool
 
 - [Pandas plot](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html)
-- [Power BI](https://www.microsoft.com/pl-pl/download/details.aspx?id=58494)
 
 ## Project status
 
